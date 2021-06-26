@@ -16,4 +16,5 @@ INSERT INTO [Teste] ([Data_Teste], [Id_Paciente], [CPF_Paciente], [Resultado])
 INSERT INTO [Teste] ([Data_Teste], [Id_Paciente], [CPF_Paciente], [Resultado]) 
     VALUES('2021-03-21', '5', '13969688906', 0);
 
-SELECT * FROM [Teste]
+INSERT INTO [Teste] ([Data_Teste], [Id_Paciente], [CPF_Paciente], [Resultado]) 
+    VALUES('2021-01-15', '6', '14955400736', 1);

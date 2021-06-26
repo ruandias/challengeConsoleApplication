@@ -16,4 +16,5 @@ INSERT INTO [Paciente] ([Nome], [CPF], [Data_Nascimento], [Idade], [Estado], [Ci
 INSERT INTO [Paciente] ([Nome], [CPF], [Data_Nascimento], [Idade], [Estado], [Cidade]) 
     VALUES('Milena Manuela da Cruz', '13969688906', '1957-09-03', 64, 'MA', 'Imperatriz');
 
-SELECT * FROM [Paciente]
+INSERT INTO [Paciente] ([Nome], [CPF], [Data_Nascimento], [Idade], [Estado], [Cidade]) 
+    VALUES('Ingrid Rodrigues Sousa', '14955400736', '1995-07-15', 25, 'RJ', 'Duque de Caxias');

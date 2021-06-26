@@ -1,4 +1,4 @@
-CREATE OR ALTER VIEW vwPacientesMortosPorOutraCausa
+CREATE OR ALTER VIEW vwPacientesMortosPorOutraCausa AS
     SELECT 
         [Nome]
     FROM 
