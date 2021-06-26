@@ -1,0 +1,2 @@
+CREATE DATABASE [Covid19]
+GO
